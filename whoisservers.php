@@ -174,7 +174,7 @@
 .com.mm|whois.nic.mm|No domains matched
 .com.mx|whois.nic.mx|Object_Not_Found
 .com.my|whois.mynic.net.my|does not exist
-.com.ph|http:\/\/www2.dot.ph\/WhoIs.asp?Domain=|is still available
+.com.ph|https://whois.dot.ph/?search=|HTTPREQUEST-Domain is available
 .com.pl|whois.dns.pl|No information available
 .com.pt|whois.dns.pt|no match
 .com.ro|whois.rotld.ro|No entries found
@@ -582,7 +582,7 @@
 .net.mx|whois.nic.mx|Object_Not_Found
 .net.my|whois.mynic.net.my|does not exist
 .net.nz|whois.srs.net.nz|220 Available
-.net.ph|http:\/\/www2.dot.ph\/WhoIs.asp?Domain=|is still available
+.net.ph|https://whois.dot.ph/?search=|HTTPREQUEST-Domain is available
 .net.pl|whois.dns.pl|No information available
 .net.ru|whois.ripn.net|No entries found
 .net.sg|whois.nic.net.sg|Domain Not Found
@@ -646,7 +646,7 @@
 .org.mx|whois.nic.mx|Object_Not_Found
 .org.my|whois.mynic.net.my|does not exist
 .org.nz|whois.srs.net.nz|220 Available
-.org.ph|http:\/\/www2.dot.ph\/WhoIs.asp?Domain=|is still available
+.org.ph|https://whois.dot.ph/?search=|HTTPREQUEST-Domain is available
 .org.pl|whois.dns.pl|No information available
 .org.ro|whois.rotld.ro|No entries found
 .org.rs|whois.rnids.rs|%ERROR:103
@@ -666,7 +666,7 @@
 .pc.pl|whois.dns.pl|No information available
 .pe|kero.yachay.pe|Status: Not Registered
 .pf|whois.registry.pf|Domain unknown
-.ph|http:\/\/www2.dot.ph\/WhoIs.asp?Domain=|is still available
+.ph|https://whois.dot.ph/?search=|HTTPREQUEST-Domain is available
 .photo|whois.uniregistry.net|is available for
 .photography|whois.donuts.co|Domain not found
 .photos|whois.donuts.co|Domain not found

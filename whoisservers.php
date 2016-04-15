@@ -71,6 +71,7 @@
 .best|whois.nic.best|Not found:
 .bg|whois.register.bg|does not exist in database
 .bi|whois1.nic.bi|Domain Status: No Object Found
+.bid|whois.nic.bid|Not found
 .bike|whois.donuts.co|Domain not found
 .bingo|whois.donuts.co|Domain not found.
 .bio|whois.ksregistry.net|The queried object does not exist:
@@ -93,6 +94,7 @@
 .build|whois.nic.build|No Data Found
 .builders|whois.donuts.co|Domain not found
 .business|whois.donuts.co|Domain not found.
+.buzz|whois.nic.buzz|Not found:
 .bw|whois.nic.net.bw|Domain Status: No Object Found
 .by|whois.cctld.by|no entries found
 .bz|whois.afilias-grs.info.|NOT FOUND
@@ -136,6 +138,7 @@
 .click|whois.uniregistry.net|is available for
 .clinic|whois.donuts.co|Domain not found.
 .clothing|whois.donuts.co|Domain not found
+.cloud|whois.nic.cloud|No Data Found
 .club|whois.nic.club|Not found:
 .cn|whois.cnnic.net.cn|No matching record.
 .cn.com|whois.centralnic.com|DOMAIN NOT FOUND
@@ -266,7 +269,7 @@
 .epson|whois.aridnrs.net.au|No Data Found
 .equipment|whois.donuts.co|Domain not found
 .ernet.in|whois.inregistry.in|NOT FOUND
-.es|http://whois.virtualname.es/whois.php?domain=|LIBRE
+.es|http://whois.virtualname.es/whois.php?domain=|HTTPREQUEST-LIBRE
 .esp.br|whois.nic.br|No match for
 .esq|domain-registry-whois.l.google.com|Domain not found.
 .estate|whois.donuts.co|Domain not found
@@ -369,7 +372,7 @@
 .gov.tr|whois.metu.edu.tr|No match found
 .gov.za|whois.co.za|No information available
 .gq|whois.dominio.gq|Invalid query or domain name not known
-.gr|http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=|not exist
+.gr|http://grwhois.ics.forth.gr:800/plainwhois/plainWhois?domainName=|HTTPREQUEST-not exist
 .graphics|whois.donuts.co|Domain not found
 .gratis|whois.donuts.co|Domain not found.
 .green|whois.afilias.net|NOT FOUND

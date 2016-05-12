@@ -520,7 +520,7 @@
 .market|whois.rightside.co|Domain not found.
 .marketing|whois.donuts.co|Domain not found
 .md|whois.nic.md|No match for
-.me|whois.meregistry.net|NOT FOUND
+.me|whois.nic.me|NOT FOUND
 .me.uk|whois.nic.uk|No match
 .med.br|whois.nic.br|No match for
 .med.ec|whois.lac.net|No match found

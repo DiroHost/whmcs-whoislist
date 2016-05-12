@@ -411,7 +411,7 @@
 .hosting|whois.uniregistry.net|is available for
 .house|whois.donuts.co|Domain not found
 .how|domain-registry-whois.l.google.com|Domain not found.
-.hr|http:\/\/dns.hr\/?only_mod_instance=300_612_0&clean_tpl=true&ds_domena=|nije registrirana
+.hr|whois.dns.hr|No entries found
 .ht|whois.nic.ht|Domain Status: No Object Found
 .hu|whois.nic.hu|No match
 .hu.com|whois.centralnic.com|DOMAIN NOT FOUND
@@ -436,6 +436,7 @@
 .info.pl|whois.dns.pl|No information available
 .info.ro|whois.rotld.ro|No entries found
 .info.ve|whois.nic.ve|No match for
+.irish|whois.afilias-srs.net|NOT FOUND
 .ing|domain-registry-whois.l.google.com|Domain not found.
 .ink|whois.nic.ink|DOMAIN NOT FOUND
 .institute|whois.donuts.co|Domain not found
@@ -453,7 +454,9 @@
 .jcb|whois.nic.gmo|DOMAIN NOT FOUND
 .je|whois.je|NOT FOUND
 .jl.cn|whois.cnnic.net.cn|no matching record
-.jobs|jobswhois.verisign-grs.com|No match for
+.jobs|whois.nic.jobs|No match for
+.meet|whois.afilias.net|NOT FOUND
+.party|whois.nic.party|object does not exist
 .joburg|joburg-whois.registry.net.za|Available
 .jor.br|whois.nic.br|No match for
 .jp|whois.jprs.jp|No match!!
@@ -693,7 +696,7 @@
 .press|whois.nic.press|DOMAIN NOT FOUND
 .presse.fr|whois.nic.fr|No entries found
 .priv.pl|whois.dns.pl|No information available
-.pro|whois.registrypro.pro|NOT FOUND
+.pro|whois.afilias.net|NOT FOUND
 .pro.br|whois.nic.br|No match for
 .prod|domain-registry-whois.l.google.com|Domain not found.
 .productions|whois.donuts.co|Domain not found.
@@ -743,6 +746,7 @@
 .sa.com|whois.centralnic.com|DOMAIN NOT FOUND
 .saarland|whois.ksregistry.net|The queried object does not exist: 
 .sale|whois.rightside.co|Domain not found.
+.science|whois.nic.science|object does not exist
 .samsung|whois.nic.samsung|No match for
 .sarl|whois.donuts.co|Domain not found.
 .saxo|whois.aridnrs.net.au|No Data Found
@@ -810,6 +814,8 @@
 .tax|whois.donuts.co|Domain not found.
 .tc|whois.adamsnames.tc|Available
 .technology|whois.donuts.co|Domain not found
+.tech|whois.nic.tech|DOMAIN NOT FOUND
+.trade|whois.nic.trade|object does not exist
 .tel|whois.nic.tel|Not found
 .tennis|whois.donuts.co|Domain not found.
 .tf|whois.nic.tf|No entries found
@@ -905,6 +911,7 @@
 .wtc|whois.nic.wtc|No Data Found
 .wtf|whois.donuts.co|Domain not found.
 .www.ro|whois.rotld.ro|No entries found
+.webcam|whois.nic.webcam|object does not exist
 .xj.cn|whois.cnnic.net.cn|no matching record
 .xn--1qqw23a|whois.ngtld.cn|No match
 .xn--3bst00m|whois.gtld.knet.cn|No match
@@ -978,3 +985,6 @@
 .zm|whois.nic.zm|Domain Status: No Object Found
 .zone|whois.donuts.co|Domain not found.
 .zuerich|whois.ksregistry.net|not found...
+.site|whois.centralnic.com|DOMAIN NOT FOUND
+.qpon|whois.nic.qpon|object does not exist
+.jetzt|whois.nic.jetzt|object does not exist

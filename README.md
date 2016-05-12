@@ -1,8 +1,7 @@
 # whmcs-whoislist
 WHMCS Domain Whois List
 
-This List is a Complete Whois list for WHMCS
-If you find any Failures or Errors, please feel free to fix them and make a Pull for it.
+This is a complete Whois List for WHMCS, if you found any missing domains or some whois errors feel free to make a pull request or an issue request.
 
 if you need more WHMCS Modules look at : www.dirohost.com <br>
 One of the best German WHMCS Translations : www.plambee.de<br>

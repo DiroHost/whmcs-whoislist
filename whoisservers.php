@@ -988,3 +988,4 @@
 .site|whois.centralnic.com|DOMAIN NOT FOUND
 .qpon|whois.nic.qpon|object does not exist
 .jetzt|whois.nic.jetzt|object does not exist
+.game|whois.uniregistry.net|is available for registration
